@@ -1,6 +1,6 @@
 # Machine-Learning-Project-Find-Movie-Similarity-from-Plot-Summaries
 
-[![Binder](https://mybinder.org/v2/gh/IbtihelKalthoum/Machine-Learning-Project-Find-Movie-Similarity-from-Plot-Summaries/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IbtihelKalthoum/Machine-Learning-Project-Find-Movie-Similarity-from-Plot-Summaries/main)
 
 ## Project Description
 Natural Language Processing (NLP) is an exciting field of study for data scientists where they develop algorithms that can make sense out of conversational language used by humans. In this Project, you will use NLP to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia.
